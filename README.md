@@ -1,6 +1,5 @@
 # Anastasia Theme 🌲
-
-[![Version](https://vsmarketplacebadge.apphb.com/version/publisher.name.anastasia)](https://marketplace.visualstudio.com/items?itemName=publisher.name.anastasia)
+[[Version](https://vsmarketplacebadge.apphb.com/version/publisher.name.anastasia)](https://marketplace.visualstudio.com/items?itemName=publisher.name.anastasia)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/publisher.name.anastasia)](https://marketplace.visualstudio.com/items?itemName=publisher.name.anastasia)
 [![Rating](https://vsmarketplacebadge.apphb.com/rating/publisher.name.anastasia)](https://marketplace.visualstudio.com/items?itemName=publisher.name.anastasia)
 
@@ -39,6 +38,31 @@ It is not just a theme; it is a specialized environment for focused development.
 *(Note: Please ensure you have an 'images' folder in your repository with a file named 'preview.png')*
 
 ---
+
+## 👋 About the Author
+
+Hi, I’m **Sayanjit Mukherjee** — a software engineering student on the path to becoming a full-time software engineer.
+
+I enjoy working with **JavaScript and TypeScript**, especially on thoughtfully designed codebases where clarity, performance, and developer experience matter. Most of my personal projects are built in **TypeScript**, and I’m particularly interested in crafting clean, focused tools that developers can live in for hours.
+
+When I’m not writing code, I’m usually refining small details that most people don’t notice — until they do.
+
+<p align="left">
+  <a href="https://github.com/Thedrogon" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sayanjit-mukherjee/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<img
+  src="./images/author.jpg"
+  alt="Sayanjit Mukherjee"
+  width="120"
+  style="border-radius: 12px; margin-top: 12px;"
+/>
+ ---------
 
 ## 🔧 Recommended Settings
 
