@@ -1,7 +1,7 @@
 # Anastasia Theme 🌲
-[[Version](https://vsmarketplacebadge.apphb.com/version/publisher.name.anastasia)](https://marketplace.visualstudio.com/items?itemName=publisher.name.anastasia)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/publisher.name.anastasia)](https://marketplace.visualstudio.com/items?itemName=publisher.name.anastasia)
-[![Rating](https://vsmarketplacebadge.apphb.com/rating/publisher.name.anastasia)](https://marketplace.visualstudio.com/items?itemName=publisher.name.anastasia)
+[[Version](https://vsmarketplacebadge.apphb.com/version/ShayanMukherjee.anastasia)](https://marketplace.visualstudio.com/items?itemName=publisher.name.anastasia)
+[[Installs](https://vsmarketplacebadge.apphb.com/installs/ShayanMukherjee.anastasia)](https://marketplace.visualstudio.com/items?itemName=publisher.name.anastasia)
+[[Rating](https://vsmarketplacebadge.apphb.com/rating/ShayanMukherjee.anastasia)](https://marketplace.visualstudio.com/items?itemName=publisher.name.anastasia)
 
 > **A deep, matte pine aesthetic with electric neon accents.**
 >
