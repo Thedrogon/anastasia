@@ -40,7 +40,7 @@ It is not just a theme; it is a specialized environment for focused development.
 ### The Editor Experience
 *A balance of deep matte backgrounds and vibrant syntax highlighting.*
 
-![Main Editor Screenshot](./images/preview.png)
+![Main Editor Screenshot](https://github.com/Thedrogon/anastasia/blob/main/images/preview.png)
 *(Note: Please ensure you have an 'images' folder in your repository with a file named 'preview.png')*
 
 ---
@@ -63,7 +63,7 @@ When I’m not writing code, I’m usually refining small details that most peop
 </p>
 
 <img
-  src="./images/author.jpg"
+  src="![./images/author.jpg](https://github.com/Thedrogon/anastasia/blob/main/images/author.jpg)"
   alt="Sayanjit Mukherjee"
   width="120"
   style="border-radius: 12px; margin-top: 12px;"
