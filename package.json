@@ -3,7 +3,7 @@
   "name": "anastasia",
   "displayName": "Anastasia",
   "description": "As emerald and magical as anastasia",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.106.0"
   },
@@ -26,5 +26,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Thedrogon/anastasia.git"
-  }
+  },
+  "icon": "icon.png"
 }
