@@ -1,11 +1,11 @@
 {
+  "publisher": "shayanmukherjee",
   "name": "anastasia",
-  "publisher": "ShayanMukherjee",
   "displayName": "Anastasia",
   "description": "As emerald and magical as anastasia",
   "version": "1.0.0",
   "engines": {
-    "vscode": "^1.107.0"
+    "vscode": "^1.106.0"
   },
   "categories": [
     "Themes"
