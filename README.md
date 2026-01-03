@@ -1,11 +1,9 @@
-# Anastasia Theme 🌲
-
+# Anastasia Theme 🌲 Made for  [Visual Studio Code](http://code.visualstudio.com)
 
 > **A deep, matte pine aesthetic with electric neon accents.**
 >
 > **Modern. Sleek. Immersion-first.**
-
----
+----------------------------------------
 
 ## 🎨 The Philosophy
 
@@ -24,7 +22,6 @@ It is not just a theme; it is a specialized environment for focused development.
     * **Logic** (Keywords/Control Flow) is colored in cool Purples and Cyans.
 * **"Waterfall" UI:** The sidebar and file explorer use a seamless gradient of greens, removing harsh gray borders found in default themes.
 * **Readability First:** Comments use a specialized **Sage Green** contrast ratio (3:1) to ensure they are visible but unobtrusive.
-
 ---
 
 ## 📸 Screenshots
