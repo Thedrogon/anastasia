@@ -52,8 +52,7 @@ When I’m not writing code, I’m usually refining small details that most peop
   </a>
 </p>
 
-
-![port-pic](https://github.com/user-attachments/assets/02e0a5b8-fb14-463d-bd73-44f1ce1812ac)
+![port-pic (1)](https://github.com/user-attachments/assets/86ac3f25-8938-486e-a260-9f6587acf8c3)
 
  ---------
 
