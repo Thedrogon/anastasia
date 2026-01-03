@@ -52,7 +52,7 @@ When I’m not writing code, I’m usually refining small details that most peop
   </a>
 </p>
 
-![author](https://github.com/user-attachments/assets/c00d56af-579c-449b-a392-8306da7ebdb4)
+![author](https://github.com/user-attachments/assets/c00d56af-579c-449b-a392-8306da7ebdb4?v=3&s=70)
 
  ---------
 
