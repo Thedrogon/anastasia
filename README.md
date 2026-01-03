@@ -1,17 +1,9 @@
 # Anastasia Theme 🌲
-[![Version](https://vsmarketplacebadge.apphb.com/version/ShayanMukherjee.anastasia)](
-https://marketplace.visualstudio.com/items?itemName=ShayanMukherjee.anastasia)
-
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/ShayanMukherjee.anastasia)](
-https://marketplace.visualstudio.com/items?itemName=ShayanMukherjee.anastasia)
-
-[![Rating](https://vsmarketplacebadge.apphb.com/rating/ShayanMukherjee.anastasia)](
-https://marketplace.visualstudio.com/items?itemName=ShayanMukherjee.anastasia)
 
 
 > **A deep, matte pine aesthetic with electric neon accents.**
 >
-> *Modern. Sleek. Immersion-first.*
+> **Modern. Sleek. Immersion-first.**
 
 ---
 
@@ -40,7 +32,8 @@ It is not just a theme; it is a specialized environment for focused development.
 ### The Editor Experience
 *A balance of deep matte backgrounds and vibrant syntax highlighting.*
 
-![Main Editor Screenshot](https://github.com/Thedrogon/anastasia/blob/main/images/preview.png)
+<img width="870" height="809" alt="preview" src="https://github.com/user-attachments/assets/968e39f1-e2d5-48eb-8c75-6b34dffaf79b" />
+
 *(Note: Please ensure you have an 'images' folder in your repository with a file named 'preview.png')*
 
 ---
@@ -62,12 +55,8 @@ When I’m not writing code, I’m usually refining small details that most peop
   </a>
 </p>
 
-<img
-  src="https://github.com/Thedrogon/anastasia/blob/main/images/author.jpg"
-  alt="Sayanjit Mukherjee"
-  width="120"
-  style="border-radius: 12px; margin-top: 12px;"
-/>
+![author](https://github.com/user-attachments/assets/c00d56af-579c-449b-a392-8306da7ebdb4)
+
  ---------
 
 ## 🔧 Recommended Settings
