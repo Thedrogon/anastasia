@@ -63,7 +63,7 @@ When I’m not writing code, I’m usually refining small details that most peop
 </p>
 
 <img
-  src="![./images/author.jpg](https://github.com/Thedrogon/anastasia/blob/main/images/author.jpg)"
+  src="https://github.com/Thedrogon/anastasia/blob/main/images/author.jpg"
   alt="Sayanjit Mukherjee"
   width="120"
   style="border-radius: 12px; margin-top: 12px;"
