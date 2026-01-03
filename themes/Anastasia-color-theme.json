@@ -1,0 +1,220 @@
+{
+	"name": "Anastasia",
+	"type": "dark",
+	"colors": {
+		/* --- 1. UI: THE GREEN WATERFALL --- */
+		"sideBar.background": "#031814",
+		"sideBar.foreground": "#A7F3D0",
+		"sideBarSectionHeader.foreground": "#5D7E78",
+		"sideBar.border": "#041F1A",
+		"list.activeSelectionBackground": "#041F1A",
+		"list.activeSelectionForeground": "#00FF9D",
+		"list.hoverForeground": "#00FF9D",
+		"list.highlightForeground": "#00FF9D",
+		"list.hoverBackground": "#00FF9D10",
+		/* --- 2. ACTIVITY BAR (Far Left) --- */
+		"activityBar.background": "#02120F",
+		"activityBar.foreground": "#00FF9D", /* Changed to Neon for better visibility */
+		"activityBar.inactiveForeground": "#466660",
+		"activityBarBadge.background": "#00FF9D",
+		"activityBarBadge.foreground": "#02120F",
+		/* --- 3. EDITOR & TABS --- */
+		"editor.background": "#041F1A",
+		"editor.foreground": "#E2F1F0",
+		"editorGroupHeader.tabsBackground": "#01100D",
+		"tab.activeBackground": "#041F1A",
+		"tab.activeForeground": "#00FF9D",
+		"tab.activeBorderTop": "#00FF9D",
+		"tab.border": "#01100D",
+		"tab.inactiveBackground": "#01100D",
+		"tab.inactiveForeground": "#5D7E78",
+		/* --- 4. TOP BAR & MENUS --- */
+		"titleBar.activeBackground": "#02120F",
+		"titleBar.activeForeground": "#A7F3D0",
+		"titleBar.inactiveBackground": "#02120F",
+		"titleBar.inactiveForeground": "#466660",
+		"menu.background": "#031814",
+		"menu.foreground": "#A7F3D0",
+		"menu.selectionBackground": "#041F1A",
+		"menu.selectionForeground": "#00FF9D",
+		"menu.separatorBackground": "#5D7E78",
+		"menu.border": "#041F1A",
+		/* --- 5. STATUS BAR --- */
+		"statusBar.background": "#01100D",
+		"statusBar.foreground": "#00FF9D",
+		"statusBar.border": "#041F1A",
+		/* --- 6. EDITOR BASICS --- */
+		"editorCursor.foreground": "#00FF9D",
+		"editorLineNumber.activeForeground": "#00FF9D",
+		"editorLineNumber.foreground": "#2D4A45",
+		"selection.background": "#00FF9D20",
+		"editor.lineHighlightBackground": "#00FF9D07", /* Subtle highlight for current line */
+		"editorLink.activeForeground": "#00FF9D",
+		/* --- 7. TERMINAL (Immersion) --- */
+		"terminal.background": "#041F1A",
+		"terminal.foreground": "#E2F1F0",
+		"terminal.ansiBlack": "#02120F",
+		"terminal.ansiRed": "#FF5370",
+		"terminal.ansiGreen": "#00FF9D", /* The Neon! */
+		"terminal.ansiYellow": "#FBBF24",
+		"terminal.ansiBlue": "#82AAFF",
+		"terminal.ansiMagenta": "#A78BFA",
+		"terminal.ansiCyan": "#2DD4BF",
+		"terminal.ansiWhite": "#ffffff",
+		"terminal.ansiBrightBlack": "#5D7E78",
+		"terminal.ansiBrightGreen": "#6EE7B7"
+	},
+	"tokenColors": [
+		{
+			"name": "Comment",
+			"scope": [
+				"comment",
+				"punctuation.definition.comment"
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#628b85" /* FIX: Lighter Sage Green for Readability */
+			}
+		},
+		{
+			"name": "Variables",
+			"scope": [
+				"variable",
+				"string constant.other.placeholder"
+			],
+			"settings": {
+				"foreground": "#E2F1F0"
+			}
+		},
+		{
+			"name": "Colors",
+			"scope": [
+				"constant.other.color"
+			],
+			"settings": {
+				"foreground": "#ffffff"
+			}
+		},
+		{
+			"name": "Invalid",
+			"scope": [
+				"invalid",
+				"invalid.illegal"
+			],
+			"settings": {
+				"foreground": "#FF5370"
+			}
+		},
+		{
+			"name": "Keyword, Storage",
+			"scope": [
+				"keyword",
+				"storage.type",
+				"storage.modifier"
+			],
+			"settings": {
+				"foreground": "#A78BFA"
+			} /* Soft Purple */
+		},
+		{
+			"name": "Operator, Misc",
+			"scope": [
+				"keyword.control",
+				"punctuation",
+				"meta.tag",
+				"keyword.other.substitution"
+			],
+			"settings": {
+				"foreground": "#2DD4BF"
+			} /* Cyan */
+		},
+		{
+			"name": "Tag",
+			"scope": [
+				"entity.name.tag",
+				"meta.tag.sgml",
+				"markup.deleted.git_gutter"
+			],
+			"settings": {
+				"foreground": "#F472B6"
+			} /* Hot Pink */
+		},
+		{
+			"name": "Function",
+			"scope": [
+				"entity.name.function",
+				"support.function"
+			],
+			"settings": {
+				"foreground": "#6EE7B7"
+			} /* Mint */
+		},
+		{
+			"name": "Number, Constant",
+			"scope": [
+				"constant.numeric",
+				"constant.language",
+				"support.constant",
+				"constant.character"
+			],
+			"settings": {
+				"foreground": "#FBBF24"
+			} /* Amber */
+		},
+		{
+			"name": "String",
+			"scope": [
+				"string",
+				"markup.heading"
+			],
+			"settings": {
+				"foreground": "#10B981"
+			} /* Emerald */
+		},
+		{
+			"name": "Class, Support",
+			"scope": [
+				"entity.name",
+				"support.type",
+				"support.class"
+			],
+			"settings": {
+				"foreground": "#FDBA74"
+			} /* Orange */
+		},
+		{
+			"name": "Attributes",
+			"scope": [
+				"entity.other.attribute-name"
+			],
+			"settings": {
+				"foreground": "#A78BFA"
+			}
+		},
+		{
+			"name": "JSON Keys",
+			"scope": [
+				"support.type.property-name.json"
+			],
+			"settings": {
+				"foreground": "#2DD4BF"
+			}
+		},
+		{
+			"name": "Markdown",
+			"scope": [
+				"text.html.markdown"
+			],
+			"settings": {
+				"foreground": "#E2F1F0"
+			}
+		}
+	],
+	"semanticHighlighting": true,
+	"semanticTokenColors": {
+		"newOperator": "#A78BFA",
+		"string": "#10B981",
+		"customLiteral": "#E2F1F0",
+		"number": "#FBBF24"
+	}
+}

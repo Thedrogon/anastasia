@@ -1,0 +1,24 @@
+{
+  "name": "anastasia",
+  "displayName": "Anastasia",
+  "description": "As emerald and magical as anastasia",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.107.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Anastasia",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Anastasia-color-theme.json"
+      }
+    ]
+  },
+  "dependencies": {
+    "@vscode/vsce": "^3.7.1"
+  }
+}
