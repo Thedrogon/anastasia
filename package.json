@@ -2,7 +2,7 @@
   "name": "anastasia",
   "displayName": "Anastasia",
   "description": "As emerald and magical as anastasia",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.107.0"
   },
