@@ -52,8 +52,8 @@ When I’m not writing code, I’m usually refining small details that most peop
   </a>
 </p>
 
-![blurred_pic](https://github.com/user-attachments/assets/3667c05b-d860-4bfc-8b6d-4bc26a9ac6e8)
 
+![port-pic](https://github.com/user-attachments/assets/02e0a5b8-fb14-463d-bd73-44f1ce1812ac)
 
  ---------
 
